@@ -1,4 +1,4 @@
-# Super-market-sales-analysis
+# Super-market-sales-analysis _ by SOURAB
 
 This project involved analyzing a <a href="supermarket_sales - Sheet1.csv" target="_blank">dataset</a> of supermarket sales to gain insights into the company's sales performance by various categories. The data was first cleaned and preprocessed using <a href="Python code(to analyse and visualise).py" target="_blank">Python's</a> pandas library, and then analyzed using various statistical and data visualization techniques.
 
