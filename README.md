@@ -6,4 +6,4 @@ The analysis focused on several key areas, including Sales Performance by Produc
 
 Overall, the <a href="super market sales analysis .pdf" target="_blank">project</a> demonstrated how data analysis can be used to gain valuable insights into a company's performance, and how these insights can be used to guide strategic decision-making and marketing efforts to optimize sales and profitability.
 
-The code for this project, along with the dataset used, has been uploaded to a GitHub repository for reference and further analysis.
+The code for this project, along with the dataset used, has been uploaded to a <a href="https://github.com/isourab009/Super-market-sales-analysis" target="_blank">GitHub repository</a> for reference and further analysis.
